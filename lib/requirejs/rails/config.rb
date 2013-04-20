@@ -35,6 +35,7 @@ module Requirejs::Rails
         config
         context
         deps
+        hbs
         jQuery
         locale
         map
